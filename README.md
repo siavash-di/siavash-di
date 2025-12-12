@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=siavash-di&label=Profile%20Views&color=0e75b6&style=flat)
+
 ## Hi 👋 I’m Siavash
 
 Hosting & Virtualization Specialist | Infrastructure Architect | Security & Automation  
@@ -24,10 +26,6 @@ My work sits at the intersection of **infrastructure, business logic, and securi
 - Abuse handling, rate limiting, and incident response
 - KYC, AML, fraud detection workflows
 - Automation-first operations
-
----
-
-### ☁️ Infrastructure & Virtualization
 - KVM-based virtualization
 - SolusVM 2 ecosystem
 - Network bandwidth & I/O control
@@ -65,12 +63,6 @@ Using AI as an **operator multiplier**, not a buzzword.
 - Risk management and compliance
 - Scaling infrastructure with financial awareness
 - Provider, reseller, and multi-brand setups
-
-Technology must serve the business, not the other way around.
-
----
-
-### 🧰 Tooling & Environment
 - Linux server environments
 - Virtualization & orchestration tools
 - WHMCS (advanced hooks & addons)
